@@ -1,2 +1,2 @@
 # 15th-anniversary-of-XJTLU
-XJTLU-Y3S1-CPT205-Assessment1-2D-Modelling-Project 2021
+XJTLU-2021-Y3S1-CPT205-Assessment1-2D-Modelling-Project
